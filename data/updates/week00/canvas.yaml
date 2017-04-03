@@ -1,0 +1,106 @@
+---
+problem:
+  - title: People to deepen their understanding of topics/subject in a quick, yet efficient way.
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 5
+    description: |
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: Lack of time to sit down and study
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 2
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: Not provided with the chance to contextualize new things.
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 10
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: |
+     *Existing alternatives*: Quizlet and Headmagnet
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 7
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+cost_structure: # ... etc
+
+  - title: Hosting
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 8
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: Developing and marketing team
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 3
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+solution: # ... etc
+
+  - title: send push notifications until it's clear that the user understands the concepts
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 4
+    description: |
+      
+
+
+  - title: provide quizzes to test the user's knowledge of the specific subjects.
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 9
+    description: |
+    
+
+    
+
+key_metrics:
+  - title: A - Sign up
+  - title: A - Relatively high scores on quizzes
+  - title: R - Shared application with friends
+  - title: R - Take the quiz everyday 
+  - title: R - Paid after trial
+
+value_proposition:
+  - title: The fastest way to share your photos and videos
+  - title: |
+      *High level concept:* Photo and video sharing without the uploading
+
+unfair_advantage:
+  - title: community
+
+channels:
+  - title: Students
+  - title: Teachers (integrate application into classrooms)
+  - title: AdWords
+  - title: Facebook
+  - title: Word of mouth
+
+customer_segments:
+  - title: Parents (creators)
+  - title: Teachers and learning institutions (viewers)
+  - title: |
+      *Early adopter*: Parents with young kids
+---
+

@@ -1,0 +1,68 @@
+---
+title: GET OUT!
+summary: Get you out of any situation
+news:
+  - title: Is the App Effective?
+    kind: joy
+    description: |
+     An application that gets you out of any situation at any time.
+---
+
+**Purpose of the application**
+
+The purpose of this application is to get the user out of any situation. This includes a boring sleepover, dinner with inlaws
+a sketch cab ride, couples yoga, math classes, or awkward encounters. 
+
+**MVP Link**
+ - Link: https://htoyll88.github.io
+
+** brief overview of the code that exists so far **
+  - HTML, CSS, JavaScript, PHP that makes the site interactive
+
+**What you've accomplished since the last update, and whether you met last week's goals 
+(or why not).**
+  - Please restate your goals from last week. Part of your grade this week will be whether you addressed goals from last week.
+      - Previous goals **(all of these goals were met)**: 
+        - create the visual framework for the application, so user will be able to see it and interact with it.
+        - restructure the mission of the application
+          - ensure that the app is structured in a way that doesn't make the concept of consent complicated.
+        - Conduct at least 5 more interviews 
+      - Accomplished goals: 
+        - Conducted 5 more interviews (see the documentation from the brief interviews here: https://docs.google.com/document/d/1X2pr1eh5lYqtOzHC3qsBRmmya-MiX_3efbd_K1sbupA/edit)
+        - Added a call feature that *only* connects to apple products (see @: https://github.com/htoyll88/htoyll88.github.io)
+        - Restructured the mission of the application
+          - The application now strives to simply get users out of any situation with the assistance of an emergency call button. 
+          - As an interviewee accentuated, research suggest that the applications and platforms that are most beneficial in regards
+           to ameliorating the issue of sexual misconduct are application that do not have any evident connection or correlation with it.
+        - **created a draft of pitch deck (see @: https://docs.google.com/presentation/d/1hfQj6GRSfH_9aqkcKh8ccdBRZJicMYG893szrCxgGIM/edit#slide=id.g1d4fd5eb84_0_0)** 
+        - reached out to college administrative staffs
+          - Sacred Heart University and Yale University
+        - emphasized the purpose of the application on the landing page
+        - started to use PHP to make the site more interactive.
+
+**Next steps, hopefully these are actionable and well-defined goals.**
+
+  - Continue working on the visual display of the application
+  - Continue developing the share my location
+  - Strive to make the application as user-friendly and effective as possible
+  - conduct 5 more interviews
+  - Contact 3 more administrators of various campuses across the nation 
+    - Do they believe the application will be effective?
+    - Do they think an application with such a mission is necessary? Does it have a place on their campus?
+    - Would they invest in it?
+    - What improvement should be made?
+  - send out mass email list to get people to log onto the application
+
+**Media, images, and demonstrations of the key improvements made to your MVP.**
+
+  - Added a button that, when clicked, sends a phone call to the number inputed 
+
+  **Customer acquisition strategies that have been used:** 
+    - send updates after people sign up on our landing page
+    - Giving potential customers the chance to engage with the application 
+    - conducting several interviews 
+      - shows people that their input is valuable 
+ 
+
+
+

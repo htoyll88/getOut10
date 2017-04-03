@@ -1,0 +1,20 @@
+---
+name: 
+app:
+  name: Consent Application 
+  url: https://htoyll8.wixsite.com/weconsent
+  twitter_username: _consentapp_
+  repo: https://github.com/htoyll88/consentApplication.git
+  tagline: A comfortable platform for consent 
+  value: |
+members:
+  - first_name: Tyler
+    last_name: Holloway
+    email: tyler.holloway@yale.edu
+  - first_name: Jay 
+    last_name: Losty
+    email: jay.losty@yale.edu
+  - first_name: Jon 
+    last_name: Ramirez
+    email: jon.ramierz@yale.edu
+---

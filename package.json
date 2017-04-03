@@ -1,0 +1,31 @@
+{
+  "name": "cpsc213-node-blog",
+  "version": "1.0.0",
+  "description": "Blog for CPSC213",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.5.0"
+  },
+  "scripts": {
+    "start": "nodemon -e 'js,html,yaml,css' index.js",
+    "postinstall": "bower install"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "bower": "^1.7.2",
+    "cas-authentication": "0.0.8",
+    "client-sessions": "^0.7.0",
+    "compression": "^1.6.0",
+    "express": "^4.13.3",
+    "glob": "^7.1.1",
+    "marked": "^0.3.5",
+    "nunjucks": "^3.0.0",
+    "nunjucks-markdown": "^2.0.1",
+    "twilio": "^2.11.1",
+    "yaml-front-matter": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}

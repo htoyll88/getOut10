@@ -1,0 +1,52 @@
+---
+title: Consent Application
+summary: A platform that makes 
+news:
+  - title: Created blurb about the function of the application
+    kind: joy
+    description: |
+     An application that allows you to learn anywhere, anytime.
+---
+
+**What you've accomplished since the last update, and whether you met last week's goals (or why not). 
+Please restate your goals from last week. Part of your grade this week will be whether you addressed goals from last week. **
+
+- Pivoted the idea of the application to one that simply gets you out of any situation -CCE leaders contended that apps that have no clear relation to issues such as sexual misconduct are the most effective.
+- Fixed landing page. This can be found at https://htoyll8.wixsite.com/weconsent.
+- Met with Yale’s community consent educators to discuss the viability and effectiveness of our application.
+  - Takeaways:
+    - Consent applications have a proclivity for making the concept of consent more complex than it is
+       - For example, the quiz can possibly create more problems than solution. How accurate is the quiz in determining consent? Should a multiple choice be used to determine whether someone should consent? The task of taking a multiple choice to determine whether or not someone consents goes against the idea that consent is ongoing.Begun building our MVP: we have created a layout for the call immediately functio
+        Last weeks goal were not met due to a misunderstanding of the assignment. Due to the fact we pivoted to a completely a new idea, we believed that our goal was to prove that our new application was viable and a place in the market rather than conduct interviews and create an MVP.
+- Our MVP consists of:
+  - Quiz page with simple quiz questions
+  - Gives the user a glimpse of the application.
+  - Next steps, hopefully these are actionable and well-defined goals.
+- Set up more interviews
+  - more CCE members
+  - students across different campuses
+  - school administators
+  - Figure out how to send a pre-recorded call to the user
+
+** Overview of code **
+ 
+- created HTML and CSS for signup
+- created HTML and CSS for emergency call button.
+
+** Media, images, and demonstrations of the key improvements made to your MVP. **
+
+- completed rough draft of the signup form for users. This can be found at [website].
+- created a rough draft of the html and css for the emergency buttons
+- automatically text a friend
+- get a fake call button
+- currently working on sending sms messages from application.
+
+
+** Customer Acquisition Strategies **
+
+- The best tactic for acquiring new customers is content marketing
+    - marketing that involves the creation and sharing of online material (such as videos, blogs, and social media posts) that does not explicitly promote a brand but is intended to stimulate interest in its products or services.
+      Send customers newletters about application updates
+- Outside of direct sales, there is no better business outcome attached to first-time visitors than when they subscribe to receive newsletters and email updates from you.
+- Choosing the right words
+  - "Choosing the right words is an important part of how your business sells online, so invest a little time in learning about powerful wordsmithing."

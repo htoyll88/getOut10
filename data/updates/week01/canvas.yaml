@@ -1,0 +1,84 @@
+---
+problem:
+  - title: College campuses across the globe struggle with issues correlated with consent and the lack thereof.
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 5
+
+
+  - title: Universities have trouble finding an efficient way to "track" the well being of their students
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 2
+    description: |
+      
+
+  - title: Many have trouble saying *no*
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 10
+    description: |
+     
+cost_structure: # ... etc
+
+  - title: Hosting
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 8
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: Developing and marketing team
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 3
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+solution: # ... etc
+
+  - title: Helps student get out of situation by sending them a pre-recorded phone call and sending a text message to their "trusted friend".
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 4
+    description: |
+      
+
+
+  - title: Gives the people the chance to mutually stop and evaluate the situation
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 9
+    description: |
+    
+
+    
+
+key_metrics:
+  - title: A - Sign up
+  - title: A - Universities recognize the power of the application 
+  - title: R - Shared application with friends
+  - title: R - The number of cases on sexual misconduct diminishes 
+  - title: R - Paid after trial
+
+value_proposition:
+  - title: a comfortable platform for consent 
+  - title: |
+      *High level concept:* Photo and video sharing without the uploading
+
+unfair_advantage:
+  - title: apps that are similiar. For example, there's this application called we consent that has many of the same features
+
+channels:
+  - title: Students
+  - title: Universities and colleges 
+  - title: AdWords
+  - title: Word of mouth
+
+customer_segments:
+  - title: students
+  - title: learning institutions
+  - title: |
+      *Early adopter*: Parents with young kids
+---
+

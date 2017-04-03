@@ -1,0 +1,170 @@
+body{
+  background-color: White;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-family: 'Barrio', cursive;
+  line-height: 1.43;
+  color: #484848;
+}
+
+
+p{
+
+  font-size: 16px
+}
+
+a:link{
+  font-size: 16px;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+a:visited {
+  text-decoration: none;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol, li,{
+  margin: 0;
+  padding: 0;
+}
+
+ul, ol {
+  list-style-type: none;
+}
+
+::selection {
+  color: #fff;
+  background-color: #333;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: #333;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*TOP-NAV CSS*/
+
+.top-nav{
+  position: fixed;
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ccc;
+}
+
+.title {
+  position: fixed;
+  font-size: 11px;
+  display: inline-block;
+  vertical-align: middle;
+  top: 0px;
+  margin: 0 0 10px 10px;
+}
+
+.logo:link {
+  color: #484848;
+  display: inline-block;
+  transition: all 0.3s` ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+}
+
+.logo:visited {
+  color: #484848;
+}
+
+.logo:hover{
+  background-color: #f1f1f1;
+}
+
+.logo img {
+  position: relative;
+  padding: 10px 18px;
+  width: 40px;
+  border-right: 1px solid #ccc;
+  vertical-align: middle;
+}
+
+#nav-search-wrapper {
+  display: inline-block;
+  width: 490px;
+  height: 100%;
+  float: right;
+}
+
+#nav-search-wrapper form svg{
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: #ccc;
+}
+
+#nav-search-wrapper form input {
+  padding: 22px 10px 8px 52px;
+  width: 100%;
+  border: none;
+  outline: none;
+  color: #ccc;
+  font-size: 14px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-right: 
+}
+
+#nav-search-wrapper form input::-webkit-input-placeholder {
+  color: pink;
+  font-size: 14px;
+}
+
+#nav-search-wrapper form input::-moz-placeholder {
+  color:pink;
+  font-size: 14px;
+}
+
+#nav-search-wrapper form input:-ms-input-placeholder {
+  color: pink;
+  font-size: 14px;
+}
+
+#nav-search-wrapper form input:-moz-placeholder {
+  color:pink;
+  font-size: 14px;
+}
+
+/*NAV-SEARCH CSS
+
+#nav-search-wrapper {
+  position: relative;
+  top: 10px;
+  width: 1360px;
+  height: 100%;
+  display: inline-block;
+  margin-left: 100px;
+}
+
+#nav-search-wrapper form input{
+  display: block;
+  width: 100%;
+  padding: 22px 10px 18px 52px;
+}
+
+*/
+
+
+
+
+
