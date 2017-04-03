@@ -8,10 +8,15 @@ news:
      An application that gets you out of any situation at any time.
 ---
 
+
 **Purpose of the application**
 
 The purpose of this application is to get the user out of any situation. This includes a boring sleepover, dinner with inlaws
 a sketch cab ride, couples yoga, math classes, or awkward encounters. 
+
+**Why this app is important**
+
+Technology, in a variety of ways, gets us out of situations. 
 
 **MVP Link**
  - Link: https://htoyll88.github.io
@@ -29,7 +34,7 @@ a sketch cab ride, couples yoga, math classes, or awkward encounters.
         - Conduct at least 5 more interviews 
       - Accomplished goals: 
         - Conducted 5 more interviews (see the documentation from the brief interviews here: https://docs.google.com/document/d/1X2pr1eh5lYqtOzHC3qsBRmmya-MiX_3efbd_K1sbupA/edit)
-        - Added a call feature that *only* connects to apple products (see @: https://github.com/htoyll88/htoyll88.github.io)
+        - Added a call feature with twilio (see @ https://github.com/htoyll88/getOut10/tree/master/twilio-code)
         - Restructured the mission of the application
           - The application now strives to simply get users out of any situation with the assistance of an emergency call button. 
           - As an interviewee accentuated, research suggest that the applications and platforms that are most beneficial in regards
@@ -39,7 +44,6 @@ a sketch cab ride, couples yoga, math classes, or awkward encounters.
           - Sacred Heart University and Yale University
         - emphasized the purpose of the application on the landing page
         - started to use PHP to make the site more interactive.
-        -**worked with twilio to make a fake call.**
 
 **Next steps, hopefully these are actionable and well-defined goals.**
 
